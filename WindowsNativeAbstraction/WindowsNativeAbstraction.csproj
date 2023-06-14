@@ -4,13 +4,14 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <EnablePackageValidation>false</EnablePackageValidation>
+    <EnablePackageValidation>true</EnablePackageValidation>
     <Authors>Alan Zatarain</Authors>
     <Description>A bridge between .NET and the native Windows API</Description>
     <PackageProjectUrl>https://github.com/ingSinTitulo/WindowsNativeAbstraction</PackageProjectUrl>
     <PackageTags>winapi, library</PackageTags>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
     <NoWarn>$(NoWarn);CS1591</NoWarn>
   </PropertyGroup>
 
