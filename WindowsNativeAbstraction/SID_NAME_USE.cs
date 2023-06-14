@@ -1,7 +1,7 @@
 namespace WindowsNativeAbstraction;
 
 /// <summary>
-///  This structure comes from WinNT header.
+///  This enum comes from WinNT header.
 /// </summary>
 public enum SID_NAME_USE : int
 {
