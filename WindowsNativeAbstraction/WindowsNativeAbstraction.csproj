@@ -13,6 +13,7 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
     <NoWarn>$(NoWarn);CS1591</NoWarn>
+    <PackageIcon>icons8-windows-10-200.png</PackageIcon>
   </PropertyGroup>
 
   <ItemGroup>
