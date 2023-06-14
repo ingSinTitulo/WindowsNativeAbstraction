@@ -9,8 +9,8 @@
     <Description>A bridge between .NET and the native Windows API</Description>
     <PackageProjectUrl>https://github.com/ingSinTitulo/WindowsNativeAbstraction</PackageProjectUrl>
     <PackageTags>winapi, library</PackageTags>
-    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
-    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageLicenseFile>../LICENSE.txt</PackageLicenseFile>
+    <PackageReadmeFile>../README.md</PackageReadmeFile>
     <NoWarn>$(NoWarn);CS1591</NoWarn>
   </PropertyGroup>
 
